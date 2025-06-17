@@ -1,0 +1,16 @@
+# ▶︎ Sanal ortam & derlenmiş kütüphaneler
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# ▶︎ Eğitim çıktı dosyaları
+models/
+results/
+logs/
+*.h5
+*.ckpt
+*.pb
+
+# ▶︎ OS artık dosyaları
+.DS_Store
