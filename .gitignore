@@ -14,3 +14,4 @@ logs/
 
 # ▶︎ OS artık dosyaları
 .DS_Store
+!models/saved_models/*.h5

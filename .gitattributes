@@ -1,3 +1,4 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 results/**/*.png filter=lfs diff=lfs merge=lfs -text
+models/saved_models/*.h5 filter=lfs diff=lfs merge=lfs -text
