@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="scripts/grafik" alt="GRAFIK" width="70%"/><br><img src="scripts/matris" alt="MATRIS" width="70%"/></p>
+  <img src="scripts/grafik.png" alt="GRAFIK" width="70%"/><br><img src="scripts/matris.png" alt="MATRIS" width="70%"/></p>
 
 ---
 
