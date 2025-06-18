@@ -1,5 +1,4 @@
 # 🧠 Beyin Tümörü Sınıflandırma Sistemi
-# > 📥 Model ağırlığını [Releases sekmesinden](https://github.com/Mustafkgl/brain-tumor-cnn/releases/latest) indirin.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19+-orange.svg)](https://tensorflow.org)
@@ -10,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="results/plots/training_history_20250618_004532.png" alt="GRAFIK" width="70%"/><br><img src="results/confusion_matrices/cm_20250618_004532.png" alt="MATRIS" width="70%"/></p>
+  <img src="scripts/grafik" alt="GRAFIK" width="70%"/><br><img src="scripts/matris" alt="MATRIS" width="70%"/></p>
 
 ---
 
