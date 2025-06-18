@@ -190,12 +190,12 @@ Eğitim tamamlandığında proje dizininde **otomatik** olarak aşağıdaki dosy
 <summary>🎞️ Örnek Görseller (tıklayın)</summary>
 
 <p align="center">
-  <img src="results/plots/training_history_example.png" alt="Eğitim Grafiği" width="65%"/>
+  <img src="script/grafik.png" alt="Eğitim Grafiği" width="65%"/>
   <br/><br/>
-  <img src="results/confusion_matrices/cm_example.png" alt="Karışıklık Matrisi" width="50%"/>
+  <img src="script/matris.png" alt="Karışıklık Matrisi" width="50%"/>
 </p>
 
-> **Not:** Örnek dosyalar yalnızca görsel amaçlıdır. Kendi eğitiminizde oluşan dosyalar farklı zaman damgalarına sahip olacaktır.
+> **Not:** Örnek dosyalar tamamen gerçek kod çıktılarıdır.
 
 </details>
 ```
