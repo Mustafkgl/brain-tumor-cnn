@@ -198,11 +198,14 @@ Eğitim tamamlandığında proje dizininde **otomatik** olarak aşağıdaki dosy
 > **Not:** Örnek dosyalar tamamen gerçek kod çıktılarıdır.
 
 </details>
+
 ```
+
 models/saved_models/   # En iyi modeller
 results/metrics/       # Kayıtlı metrikler
 results/plots/         # Eğitim grafikleri
 logs/tensorboard/      # TensorBoard logları
+
 ```
 
 ### 📊 TensorBoard
