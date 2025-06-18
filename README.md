@@ -190,9 +190,9 @@ Eğitim tamamlandığında proje dizininde **otomatik** olarak aşağıdaki dosy
 <summary>🎞️ Örnek Görseller (tıklayın)</summary>
 
 <p align="center">
-  <img src="script/grafik.png" alt="Eğitim Grafiği" width="65%"/>
+  <img src="scripts/grafik.png" alt="Eğitim Grafiği" width="65%"/>
   <br/><br/>
-  <img src="script/matris.png" alt="Karışıklık Matrisi" width="50%"/>
+  <img src="scripts/matris.png" alt="Karışıklık Matrisi" width="50%"/>
 </p>
 
 > **Not:** Örnek dosyalar tamamen gerçek kod çıktılarıdır.
